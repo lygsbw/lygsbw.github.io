@@ -1,11 +1,3 @@
-<div class="header">
-    <div class="title">
-        Quentin3157
-    </div>
-    <div class="sub-title">
-        <a href="https://github.com/quentin3157/">View my profile on github.com</a>
-    </div>
-</div>
 
 
 ## Experience
