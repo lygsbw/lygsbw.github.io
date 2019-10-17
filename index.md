@@ -32,6 +32,8 @@ I am a first year Ph.D student in the Department of Computer Science and Enginee
 
 * Chunmiao Liu, **Bowen Shi**, Chenglin Li, Junni Zou, Yingqi Chen and Hongkai Xiong, "Deep Neural Network-Based Algorithm Approximation via Multivariate Polynomial Regression", *IEEE Global Communications Conference (GlobeCOM)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
+---
+
 ## Awards/Achievements
 
 * National Scholarship, Dalian University of Technology, 2017.
