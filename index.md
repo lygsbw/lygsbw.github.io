@@ -4,7 +4,7 @@
     <td width="75%">
       <h1>Bowen Shi</h1>
       <p><b>Ph.D Candidate</b></p>
-      <p><b>Shanghai JiaoTong University</b></p>
+      <p><b>Shanghai Jiao Tong University</b></p>
       <p><b>Email：sjtu_shibowen@sjtu.edu.cn</b></p>
       <p><b>Address：SEIEE Building 1-304</b></p>
       <p><b>Research Interests：Computer Vision, Medical Imaging</b></p>
