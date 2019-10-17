@@ -1,8 +1,3 @@
-<html>
-<head>
-<link rel="stylesheet" href="style.css" media="screen" />
-</head>
-<body>
 <div class="header">
     <div class="title">
         Quentin3157
@@ -11,8 +6,7 @@
         <a href="https://github.com/quentin3157/">View my profile on github.com</a>
     </div>
 </div>
-</body>
-</html>
+
 
 ## Experience
 
