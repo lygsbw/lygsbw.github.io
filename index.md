@@ -18,6 +18,5 @@
 ###Conference Papers
 
 * Chunmiao Liu, **Bowen Shi**, Chenglin Li, Junni Zou, Yingqi Chen, Hongkai Xiong
-
 **Deep Neural Network-Based Algorithm Approximation via Multivariate Polynomial Regression** 
 *IEEE Global Communications Conference (GlobeCOM)*, Waikoloa, Hawaii, USA, Dec. 2019.
