@@ -40,4 +40,4 @@ I am a first year Ph.D student in the Department of Computer Science and Enginee
 * National Scholarship, Dalian University of Technology, 2017.
 * Silver Medal at ACM-ICPC Asia Regional Contest (Shenyang Site), 2017.
 * Silver Medal at ACM-ICPC Asia Regional Contest (Xi'an Site), 2017.
-* First Place at 11th Northeast Colleigate Programming Contest, 2017.
+* First Prize at 11th Northeast Colleigate Programming Contest, 2017.
