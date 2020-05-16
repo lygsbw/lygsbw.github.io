@@ -30,6 +30,7 @@ I am a first year Ph.D student in the Department of Computer Science and Enginee
 
 ### Conference Papers
 
+* Bowen Shi, Yuhui Xu, Wenrui Dai, Botao Wang, Shuai Zhang, Chenglin Li, Junni Zou, Hongkai Xiong, "Tiny-HourglassNet: An Efficient Design for 3D Human Pose Estimation",  *IEEE International Conference on Image Processing (ICIP)*, Oct. 2020.
 * Chunmiao Liu, **Bowen Shi**, Chenglin Li, Junni Zou, Yingqi Chen, Hongkai Xiong, "Deep Neural Network-Based Algorithm Approximation via Multivariate Polynomial Regression", *IEEE Global Communications Conference (GlobeCOM)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
 ---
