@@ -7,7 +7,7 @@
       <p><b>Shanghai Jiao Tong University</b></p>
       <p><b>Email：sjtu_shibowen@sjtu.edu.cn</b></p>
       <p><b>Address：SEIEE Building 1-304</b></p>
-      <p><b>Research Interests：Deep Learning</b></p>
+      <p><b>Research Interests：Semi-supervised Learning, pose estimation</b></p>
     </td>
     <td width="25%">
       <img src="/shibowen.jpeg" width="100%">
