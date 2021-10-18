@@ -30,6 +30,7 @@ I am a second-year Ph.D student in the Department of Computer Science and Engine
 
 ### Conference Papers
 
+* Han Li, **Bowen Shi**, Wenrui Dai, Yabo Chen, Botao Wang, Yu Sun, Min Guo, Chenglin Li, Junni Zou, Hongkai Xiong, “Hierarchical Graph Networks for 3D Human Pose Estimation”, accepted by The British Machine Vision Conference (BMVC), Online, Nov. 2021.
 * **Bowen Shi**, Yuhui Xu, Wenrui Dai, Botao Wang, Shuai Zhang, Chenglin Li, Junni Zou, Hongkai Xiong, "Tiny-HourglassNet: An Efficient Design for 3D Human Pose Estimation",  *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates, Oct. 2020.
 * Chunmiao Liu, **Bowen Shi**, Chenglin Li, Junni Zou, Yingqi Chen, Hongkai Xiong, "Deep Neural Network-Based Algorithm Approximation via Multivariate Polynomial Regression", *IEEE Global Communications Conference (GlobeCOM)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
