@@ -20,7 +20,7 @@
 
 I am a third-year Ph.D student in the Department of Computer Science and Engineering, Shanghai Jiao Tong University, advised by Prof. [Junni Zou](http://min.sjtu.edu.cn/zjn.htm) and Prof. [Hongkai Xiong](http://min.sjtu.edu.cn/xhk.htm). Before that, I obtained my Bachelor degree in School of Software Technology, Dalian University of Technology, 2019.
 
-Now, I am intern at Huawei Cloud, Shanghai and working together with Dr. [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/) and Prof. [Qi Tian](https://scholar.google.com/citations?user=61b6eYkAAAAJ).
+From Sep. 2020 till now, I am intern at Huawei Cloud, Shanghai and working together with Dr. [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/) and Prof. [Qi Tian](https://scholar.google.com/citations?user=61b6eYkAAAAJ).
 
 ---
 
