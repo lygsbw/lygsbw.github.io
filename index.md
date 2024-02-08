@@ -23,6 +23,11 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at Sh
 
 ## Publications
 
+### Preprint:
+* **Bowen Shi**, Peisen Zhao, Zichen Wang, Yuhang Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,
+Xiaopeng Zhang, "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", *arxiv:2401.06397*, 2024.
+
+### Conference & Journal Papers:
 
 * **Bowen Shi**, Xiaopeng Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian, “Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners”, *International Conference on Learning Representations (ICLR 2024)*, Vienna, Austria, May 2024.
 * **Bowen Shi**, Dongsheng Jiang, Xiaopeng Zhang, Han Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,“A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining”, *European Conference on Computer Vision (ECCV 2022)*, Tel-Aviv, Isreal, Oct. 2022.
