@@ -5,8 +5,8 @@
       <h1>Bowen Shi</h1>
       <p><b>Ph.D Candidate</b></p>
       <p><b>Shanghai Jiao Tong University</b></p>
-      <p><b>Email：sjtu_shibowen@sjtu.edu.cn</b></p>
-      <p><b>Research Interests：foundation models, semantic segmentation, pose estimation</b></p>
+      <p><b>Email: sjtu_shibowen@sjtu.edu.cn</b></p>
+      <p><b>Research Interests: foundation models, semantic segmentation, pose estimation</b></p>
     </td>
     <td width="25%">
       <img src="/shibowen.jpeg" width="100%">
