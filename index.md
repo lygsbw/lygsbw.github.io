@@ -34,6 +34,7 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at Sh
 * Jin Li, Yaoming Wang, Xiaopeng Zhang, **Bowen Shi**, Dongsheng Jiang, Chenglin Li, Wenrui Dai, Hongkai Xiong, Qi Tian, “AiluRus: A Scalable ViT Framework for Dense Prediction”, *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)*, New Orleans, USA, Dec. 2023.
 * Yaoming Wang, Yuchen Liu, Xiaopeng Zhang, Jin Li, **Bowen Shi**, Chenglin Li, Wenrui Dai, Hongkai Xiong, Qi Tian, “VioLET: Vision-Language Efficient Tuning with Collaborative Multi-modal Gradients”, *ACM International Conference on Multimedia (ACM MM 2023)*, Ottawa, Canada, Oct. 2023.
 * Hongwei Zheng, Han Li, **Bowen Shi**, Wenrui Dai, Botao Wang, Yu Sun, Min Guo, Hongkai Xiong, “ActionPrompt: Action-Guided 3D Human Pose Estimation with Text and Pose Prompting”, *IEEE International Conference on Multimedia and Expo (ICME 2023)*, Brisbane, Australia, July 2023.
+* Xiujuan Xu, Yu Liu, Wei Wang, Quan Z. Sheng, Zhe Wang, **Bowen Shi**, "ITS-Frame: A Framework for Multi-Aspect Analysis in the Field of Intelligent Transportation Systems", *IEEE Transactions on Intelligent Transportation Systems (TITS)*, vol. 20, no. 8, pp. 2893-2902, Aug. 2019.
 
 ---
 
