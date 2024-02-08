@@ -30,6 +30,10 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at Sh
 * Han Li, **Bowen Shi**, Wenrui Dai, Hongwei Zheng, Botao Wang, Yu Sun, Min Guo, Chenglin Li, Junni Zou, Hongkai Xiong, “Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation”, *Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence (AAAI 2023)*, Washington, USA, Feb. 2023.
 * Han Li, **Bowen Shi**, Wenrui Dai, Yabo Chen, Botao Wang, Yu Sun, Min Guo, Chenglin Li, Junni Zou, Hongkai Xiong, “Hierarchical Graph Networks for 3D Human Pose Estimation”, *The British Machine Vision Conference (BMVC)*, Online, Nov. 2021.
 * Chunmiao Liu, **Bowen Shi**, Chenglin Li, Junni Zou, Yingqi Chen, Hongkai Xiong, "Deep Neural Network-Based Algorithm Approximation via Multivariate Polynomial Regression", *IEEE Global Communications Conference (GlobeCOM)*, Waikoloa, Hawaii, USA, Dec. 2019.
+* Yaoming Wang, Jin Li, Xiaopeng Zhang, **Bowen Shi**, Chenglin Li, Wenrui Dai, Hongkai Xiong, Qi Tian, “BarLeRIa: An Efficient Tuning Framework for Referring Image Segmentation”, *International Conference on Learning Representations (ICLR 2024)*, Vienna, Austria, May 2024.
+* Jin Li, Yaoming Wang, Xiaopeng Zhang, **Bowen Shi**, Dongsheng Jiang, Chenglin Li, Wenrui Dai, Hongkai Xiong, Qi Tian, “AiluRus: A Scalable ViT Framework for Dense Prediction”, *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)*, New Orleans, USA, Dec. 2023.
+* Yaoming Wang, Yuchen Liu, Xiaopeng Zhang, Jin Li, **Bowen Shi**, Chenglin Li, Wenrui Dai, Hongkai Xiong, Qi Tian, “VioLET: Vision-Language Efficient Tuning with Collaborative Multi-modal Gradients”, *ACM International Conference on Multimedia (ACM MM 2023)*, Ottawa, Canada, Oct. 2023.
+* Hongwei Zheng, Han Li, **Bowen Shi**, Wenrui Dai, Botao Wang, Yu Sun, Min Guo, Hongkai Xiong, “ActionPrompt: Action-Guided 3D Human Pose Estimation with Text and Pose Prompting”, *IEEE International Conference on Multimedia and Expo (ICME 2023)*, Brisbane, Australia, July 2023.
 
 ---
 
