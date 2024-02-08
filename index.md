@@ -23,11 +23,6 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at Sh
 
 ## Publications
 
-### Journal Articles
-
-* Xiujuan Xu, Yu Liu, Wei Wang, Quan Z. Sheng, Zhe Wang, **Bowen Shi**, "ITS-Frame: A Framework for Multi-Aspect Analysis in the Field of Intelligent Transportation Systems", *IEEE Transactions on Intelligent Transportation Systems (TITS)*, vol. 20, no. 8, pp. 2893-2902, Aug. 2019.
-
-### Conference Papers
 * **Bowen Shi**, Xiaopeng Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian, “Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners”, *International Conference on Learning Representations (ICLR 2024)*, Vienna, Austria, May 2024.
 * **Bowen Shi**, Dongsheng Jiang, Xiaopeng Zhang, Han Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,“A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining”, *European Conference on Computer Vision (ECCV 2022)*, Tel-Aviv, Isreal, Oct. 2022.
 * **Bowen Shi**, Yuhui Xu, Wenrui Dai, Botao Wang, Shuai Zhang, Chenglin Li, Junni Zou, Hongkai Xiong, "Tiny-HourglassNet: An Efficient Design for 3D Human Pose Estimation",  *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates, Oct. 2020.
