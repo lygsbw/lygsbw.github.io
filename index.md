@@ -6,7 +6,7 @@
       <p><b>Ph.D Candidate</b></p>
       <p><b>Shanghai Jiao Tong University</b></p>
       <p><b>Email：sjtu_shibowen@sjtu.edu.cn</b></p>
-      <p><b>Research Interests：self-supervised Learning, semantic segmentation, pose estimation</b></p>
+      <p><b>Research Interests：foundation models, semantic segmentation, pose estimation</b></p>
     </td>
     <td width="25%">
       <img src="/shibowen.jpeg" width="100%">
@@ -22,6 +22,7 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at Sh
 ---
 
 ## Publications
+
 
 * **Bowen Shi**, Xiaopeng Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian, “Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners”, *International Conference on Learning Representations (ICLR 2024)*, Vienna, Austria, May 2024.
 * **Bowen Shi**, Dongsheng Jiang, Xiaopeng Zhang, Han Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,“A Transformer-based Decoder for Semantic Segmentation with Multi-level Context Mining”, *European Conference on Computer Vision (ECCV 2022)*, Tel-Aviv, Isreal, Oct. 2022.
