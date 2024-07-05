@@ -23,12 +23,10 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at Sh
 
 ## Publications
 
-### Preprint:
-* **Bowen Shi**, Peisen Zhao, Zichen Wang, Yuhang Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,
-Xiaopeng Zhang, "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", *arxiv:2401.06397*, 2024.
-
 ### Conference & Journal Papers:
-
+* **Bowen Shi**, Peisen Zhao, Zichen Wang, Yuhang Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,
+Xiaopeng Zhang, "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", *European Conference on Computer Vision (ECCV 2024)*, MiCo Milano, Italy, Oct. 2024.
+* Yaoming Wang, Jin Li, Wenrui Dai, **Bowen Shi**, Xiaopeng Zhang, Chenglin Li, Hongkai Xiong, “Bootstrap AutoEncoders With Contrastive Paradigm for Self-supervised Gaze Estimation”, *International Conference on Machine Learning (ICML 2024)*, Vienna, Austria, July. 2024.
 * **Bowen Shi**, Xiaopeng Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian, “Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners”, *International Conference on Learning Representations (ICLR 2024)*, Vienna, Austria, May 2024.
 * Jin Li, Yaoming Wang, Xiaopeng Zhang, **Bowen Shi**, Dongsheng Jiang, Chenglin Li, Wenrui Dai, Hongkai Xiong, Qi Tian, “AiluRus: A Scalable ViT Framework for Dense Prediction”, *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)*, New Orleans, USA, Dec. 2023.
 * Hongwei Zheng, Han Li, **Bowen Shi**, Wenrui Dai, Botao Wang, Yu Sun, Min Guo, Hongkai Xiong, “ActionPrompt: Action-Guided 3D Human Pose Estimation with Text and Pose Prompting”, *IEEE International Conference on Multimedia and Expo (ICME 2023)*, Brisbane, Australia, July 2023.
