@@ -38,7 +38,9 @@ Xiaopeng Zhang, "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Ope
 * Han Li, **Bowen Shi**, Wenrui Dai, Yabo Chen, Botao Wang, Yu Sun, Min Guo, Chenglin Li, Junni Zou, Hongkai Xiong, “Hierarchical Graph Networks for 3D Human Pose Estimation”, *The British Machine Vision Conference (BMVC)*, Online, Nov. 2021.
 * **Bowen Shi**, Yuhui Xu, Wenrui Dai, Botao Wang, Shuai Zhang, Chenglin Li, Junni Zou, Hongkai Xiong, "Tiny-HourglassNet: An Efficient Design for 3D Human Pose Estimation",  *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates, Oct. 2020.
 * Chunmiao Liu, **Bowen Shi**, Chenglin Li, Junni Zou, Yingqi Chen, Hongkai Xiong, "Deep Neural Network-Based Algorithm Approximation via Multivariate Polynomial Regression", *IEEE Global Communications Conference (GlobeCOM)*, Waikoloa, Hawaii, USA, Dec. 2019.
-* Xiujuan Xu, Yu Liu, Wei Wang, Quan Z. Sheng, Zhe Wang, **Bowen Shi**, "ITS-Frame: A Framework for Multi-Aspect Analysis in the Field of Intelligent Transportation Systems", IEEE Transactions on Intelligent Transportation Systems (TITS), vol. 20, no. 8, pp. 2893-2902, Aug. 2019.
+* Xiujuan Xu, Yu Liu, Wei Wang, Quan Z. Sheng, Zhe Wang, **Bowen Shi**, "ITS-Frame: A Framework for Multi-Aspect Analysis in the Field of Intelligent Transportation Systems", *IEEE Transactions on Intelligent Transportation Systems (TITS)*, vol. 20, no. 8, pp. 2893-2902, Aug. 2019.
+
+
 ---
 
 ## Awards
