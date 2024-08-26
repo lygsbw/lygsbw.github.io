@@ -12,8 +12,6 @@
 </table>
 </div>
 
----
-
 ## Publications
 
 * **Bowen Shi**, Peisen Zhao, Zichen Wang, Yuhang Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,
