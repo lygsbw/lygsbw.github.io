@@ -16,7 +16,6 @@
 
 ## Publications
 
-### Conference & Journal Papers:
 * **Bowen Shi**, Peisen Zhao, Zichen Wang, Yuhang Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,
 Xiaopeng Zhang, "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", *European Conference on Computer Vision (ECCV 2024)*, MiCo Milano, Italy, Oct. 2024.
 * Yaoming Wang, Jin Li, Wenrui Dai, **Bowen Shi**, Xiaopeng Zhang, Chenglin Li, Hongkai Xiong, “Bootstrap AutoEncoders With Contrastive Paradigm for Self-supervised Gaze Estimation”, *International Conference on Machine Learning (ICML 2024)*, Vienna, Austria, July. 2024.
