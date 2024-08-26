@@ -5,7 +5,7 @@
 * Email: sjtu_shibowen@sjtu.edu.cn
 * Research Interests: vision foundation models, semantic segmentation, pose estimation
 
-## Seleced Publications (full list can be found in [Google Scholar](https://scholar.google.com/citations?user=lJHbpY0AAAAJ))
+## Seleced Publications ([Full List](https://scholar.google.com/citations?user=lJHbpY0AAAAJ))
 * **[ECCV 2024]** **Bowen Shi**, Peisen Zhao, Zichen Wang, Yuhang Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,
 Xiaopeng Zhang, "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", *European Conference on Computer Vision *, MiCo Milano, Italy, Oct. 2024.
 * **[ICLR 2024]** **Bowen Shi**, Xiaopeng Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian, “Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners”, *International Conference on Learning Representations*, Vienna, Austria, May 2024.
