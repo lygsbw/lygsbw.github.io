@@ -1,9 +1,7 @@
 
-Email: sjtu_shibowen@sjtu.edu.cn</b></p>
-Research Interests: foundation models, semantic segmentation, pose estimation
-
-
-I am a Ph.D. student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University, advised by Prof. [Junni Zou](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=15) and Prof. [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14). Before that, I obtained my B.E. degree at the School of Software Technology, Dalian University of Technology, 2019. From Sep. 2020 till now, I have been an intern at Huawei Inc., Shanghai, mentored by Dr. [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/) and Prof. [Qi Tian](https://scholar.google.com/citations?user=61b6eYkAAAAJ).
+* I am a Ph.D. student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University, advised by Prof. [Junni Zou](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=15) and Prof. [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14). Before that, I obtained my B.E. degree at the School of Software Technology, Dalian University of Technology, 2019. From Sep. 2020 till now, I have been an intern at Huawei Inc., Shanghai, mentored by Dr. [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/) and Prof. [Qi Tian](https://scholar.google.com/citations?user=61b6eYkAAAAJ).
+* Email: sjtu_shibowen@sjtu.edu.cn
+* Research Interests: foundation models, semantic segmentation, pose estimation
 
 ## Publications
 
