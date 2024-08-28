@@ -6,6 +6,7 @@
 * Research Interests: vision foundation models, semantic segmentation, pose estimation
 
 ## Seleced Publications ([Full List](https://scholar.google.com/citations?user=lJHbpY0AAAAJ))
+* **[TMM]** **Bowen Shi**, Xiaopeng Zhang, Yaoming Wang, Wenrui Dai, Junni Zou, Hongkai Xiong, "MENSA: Multi-dataset Harmonized Pretraining for Semantic Segmentation", IEEE Transactions on Multimedia, 2024.
 * **[ECCV 2024]** **Bowen Shi**, Peisen Zhao, Zichen Wang, Yuhang Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian,
 Xiaopeng Zhang, "UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding", *European Conference on Computer Vision*, MiCo Milano, Italy, Oct. 2024. [Summary](https://mp.weixin.qq.com/s/VTiPMYwUyxtYqxcQsM7opg), [Dataset](https://huggingface.co/datasets/lygsbw/UMG-41M)
 * **[ICLR 2024]** **Bowen Shi**, Xiaopeng Zhang, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian, “Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners”, *International Conference on Learning Representations*, Vienna, Austria, May 2024. [Paper](https://openreview.net/pdf?id=jUWktnsplU)
